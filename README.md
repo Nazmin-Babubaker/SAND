@@ -6,7 +6,7 @@
 ### Team Name : SAND
 ### Team Members : AADARSH AJITH, NAZMIN BABU, DHANANJAY R, SABARI VIJAYAN
 ### Project Description
-Pause2Learn is a Chrome extension designed to transform passive video watching into active learning. This intelligent tool automatically fetches the transcript of any YouTube video you're watching and, at regular time intervals set by the user, it generates thought-provoking questions based on the video content covered up to that point.
+Mentora is a Chrome extension designed to transform passive video watching into active learning. This intelligent tool automatically fetches the transcript of any YouTube video you're watching and, at regular time intervals set by the user, it generates thought-provoking questions based on the video content covered up to that point.
 
 The extension pauses the video playback, displays a question in a popup modal, and prompts the user to answer before resuming the video. The questions are generated using Google's Gemini API, leveraging advanced language models to ensure high-quality, context-relevant quiz content.
 
