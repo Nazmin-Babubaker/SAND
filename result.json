@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary subject the speaker intends to teach in the video?",
+      "difficulty": "easy",
+      "options": [
+        "How to become a blockchain master in general.",
+        "The Solidity programming language.",
+        "A 20-minute history of blockchain.",
+        "Advanced concepts for experienced developers only."
+      ],
+      "answer": "The Solidity programming language.",
+      "explanation": "The speaker explicitly states, 'today i'm going to teach you the solidity programming language' in the first few seconds of the transcript [0.96 - 4.40]."
+    },
+    {
+      "id": 2,
+      "question": "What is the speaker's proposed teaching method for the subject?",
+      "difficulty": "medium",
+      "options": [
+        "A slow, comprehensive, and detailed course.",
+        "A fast-paced introduction focusing on the most important and frequently used parts.",
+        "A theoretical overview without any practical programming.",
+        "A series of advanced challenges for experts."
+      ],
+      "answer": "A fast-paced introduction focusing on the most important and frequently used parts.",
+      "explanation": "The speaker describes the video as a 'really fast-paced introduction to the really important parts of the solidity programming language you're going to use over and over again' [9.68 - 15.44]."
+    },
+    {
+      "id": 3,
+      "question": "Who is the intended audience for this video, according to the speaker?",
+      "difficulty": "hard",
+      "options": [
+        "Only absolute beginners with no prior programming experience.",
+        "Only experienced Solidity developers looking to refresh their knowledge.",
+        "Both beginners and those who already have experience with Solidity.",
+        "Only individuals interested in the financial aspect of blockchain."
+      ],
+      "answer": "Both beginners and those who already have experience with Solidity.",
+      "explanation": "The speaker targets beginners by promising to get them 'up to speed really quickly' [16.48 - 20.08] and also addresses experienced users directly, saying 'even if you know solidity already i guarantee you're going to learn something' [18.32 - 22.56]."
+    },
+    {
+      "id": 4,
+      "question": "How does the speaker suggest viewers should use this video for their learning journey?",
+      "difficulty": "medium",
+      "options": [
+        "Watch it once to get a general idea.",
+        "Share it with others before watching it themselves.",
+        "Take detailed notes and never watch it again.",
+        "Save and bookmark it to use as a repeated reference."
+      ],
+      "answer": "Save and bookmark it to use as a repeated reference.",
+      "explanation": "Towards the end of the clip, the speaker advises the audience to 'save this video bookmark it and reference it over and over again while you're learning the programming language' [23.76 - 29.52]."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+###
+GET http://localhost:3000/
+
+###
+
+POST http://localhost:3000/api/transcript
+Content-Type: application/json
+
+
+{
+   "videoId": "pzBi1nwDn8U"
+}
+
+
+###
+DELETE http://localhost:3000/api/data2
+
+
+
+###
+POST http://localhost:3000/api/pause-event
+Content-Type: application/json
+
+{
+  "videoId": "pzBi1nwDn8U",
+  "interval": 5,
+  "pauseTime": 120.50
+}

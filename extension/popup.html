@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="popup.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+			rel="stylesheet"
+		/>
+	</head>
+	<body class="hero">
+		<h3><span id="youtube ">YouTube&ensp;</span><span>Extension</span></h3>
+		<button class="clkBtn" id="toggleBtn">Disable Extension</button>
+
+		<div class="interval-controls">
+			<label class="intervalText" for="intervalInput"
+				>Auto-pause interval (minutes):</label
+			>
+			<input type="number" id="intervalInput" min="1" value="1" />
+			<button class="clkBtn" id="saveIntervalBtn">Save Interval</button>
+		</div>
+		<script src="popup.js"></script>
+	</body>
+</html>
